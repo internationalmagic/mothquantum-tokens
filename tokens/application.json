@@ -1189,7 +1189,7 @@
     "fontFamily": {
       "control": {
         "text": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1203,7 +1203,7 @@
       },
       "label": {
         "text": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "symbol": {
@@ -1217,31 +1217,31 @@
       },
       "surface": {
         "display": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "title": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "callout": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "subtitle": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "caption": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "footnote": {
-          "value": "Mirage",
+          "value": "Interface",
           "type": "fontFamilies"
         },
         "code": {
